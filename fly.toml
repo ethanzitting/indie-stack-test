@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for indie-stack-0353 on 2024-01-23T13:58:17-06:00
+# fly.toml app configuration file generated for indie-stack-0354-blue-meadow-2829 on 2024-01-23T14:43:08-06:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "indie-stack-0353"
+app = "indie-stack-0354-blue-meadow-2829"
 primary_region = "atl"
 kill_signal = "SIGINT"
 kill_timeout = "5s"
